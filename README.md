@@ -7,9 +7,9 @@ This is a project which was developed for the University of Arizona Coding Bootc
 ## Table of Contents 
 
 * [Usage](#usage)
+* [Documentation](#documentation)
 * [Credits](#credits)
 * [License](#license)
-* [Documentation](#documentation)
 
 ## Usage 
 
@@ -22,38 +22,27 @@ Seed DB;
 `npm run seed`     
 
 Start Server;     
-`npm start server`     
-
-## Credits
-
-
-## License
-
-MIT License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+`npm start server` 
 
 ## Documentation
+![MySL Screenshoot](assets/screen1.png)
+Example of front page
 
-Live Deployed Application: [View Application](https://uabc-mvc-tech-blog.herokuapp.com/ "Live Deploy")      
+![App Screenshot](assets/screen2.png)
+An example of log in
 
-![Screenshot](doc/proof.png?raw=true "Proof of Application")      
+## Questions
+If you have any questions about the repo, please [open an issue](https://github.com/Ofarrell23/tech-blog/issues or contact me via email at keyabug@gmail.com. You can find more of my work on my GitHub, [Ofarrell23](https://github.com/Ofarrell23/).
+    
+## Credits
+Below is a list of third-party tutorials used to help facilitate this project. There were no collaborators for this project.
+
+* [Credits] (https://www.w3schools.com/tags/att_img_alt.asp)
+* [Credits] (https://www.vikingcodeschool.com/html5-and-css3/html5-semantic-tags)
+* [Credits] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+# License
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 
 
 
